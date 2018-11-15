@@ -57,7 +57,7 @@ public class Personne {
 
 	@Override
 	public String toString() {
-		return "Personne (real ou acteur) [id=" + id + ", nom=" + nom + ", prenom=" + prenom + "]";
+		return "Personne (real ou acteur mais pas les deux) [id=" + id + ", nom=" + nom + ", prenom=" + prenom + "]";
 	}
 	
 	
